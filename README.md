@@ -1,1 +1,1 @@
-# H2mol
+Hydrogen molecule in Hartree-Fock theory
